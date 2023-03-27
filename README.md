@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/samir-rana8a9468126](www.linkedin.com/samir-rana8a9468126)
 
-- 📝 I regularly write articles on [www.medium.com/samirrana](www.medium.com/samirrana)
+- 📝 I regularly write articles on [https://samirrana-18696.medium.com/](https://samirrana-18696.medium.com/)
 
 - 💬 Ask me about **iOS, Swift,SwiftUI, React Native, Machine Learning**
 
